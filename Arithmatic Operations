@@ -1,0 +1,19 @@
+> #Arithmatic operations
+> a = 2
+> c = 3
+> cat("Value of a+c is:" ,a+c)
+Value of a+c is: 5
+> cat("Value of a-c is:" ,a-c)
+Value of a-c is: -1
+> cat("Value of a*c is:" ,a*c)
+Value of a*c is: 6
+> cat("Value of a/c is:" ,a/c)
+Value of a/c is: 0.6666667
+> cat("Value of a^c is:" ,a^c)
+Value of a^c is: 8
+> cat("Value of a**c is:" ,a**c)
+Value of a**c is: 8
+> cat("Value of a%/%c is:" ,a%/%c)
+Value of a%/%c is: 0
+> cat("Value of a%%c is:" ,a%%c)
+Value of a%%c is: 2
