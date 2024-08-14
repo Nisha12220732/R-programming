@@ -1,0 +1,16 @@
+#Three ways to Assign
+a = 10
+a <- 10
+10 -> a
+
+
+b = a
+print(a)
+print(b)
+
+
+a = b = c = 10
+a <- b <- c <- 14
+print(a)
+print(b)
+print(c)
